@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MIT License NOT
+=======
+License MIT License
+>>>>>>> branch1
 
 Copyright (c) 2012 Airbnb
 

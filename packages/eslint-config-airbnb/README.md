@@ -1,5 +1,9 @@
 # eslint-config-airbnb
+<<<<<<< HEAD
 # usage
+=======
+# information
+>>>>>>> branch1
 [![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)](https://badge.fury.io/js/eslint-config-airbnb)
 
 This package provides Airbnb's .eslintrc as an extensible shared config.
